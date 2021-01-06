@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alikemalagirman/mosnter-rolodex/static/css/main.d70e15d8.chunk.css",
-    "main.js": "/alikemalagirman/mosnter-rolodex/static/js/main.6d0aafbf.chunk.js",
-    "main.js.map": "/alikemalagirman/mosnter-rolodex/static/js/main.6d0aafbf.chunk.js.map",
-    "runtime-main.js": "/alikemalagirman/mosnter-rolodex/static/js/runtime-main.7b2bc28c.js",
-    "runtime-main.js.map": "/alikemalagirman/mosnter-rolodex/static/js/runtime-main.7b2bc28c.js.map",
-    "static/js/2.936f36aa.chunk.js": "/alikemalagirman/mosnter-rolodex/static/js/2.936f36aa.chunk.js",
-    "static/js/2.936f36aa.chunk.js.map": "/alikemalagirman/mosnter-rolodex/static/js/2.936f36aa.chunk.js.map",
-    "index.html": "/alikemalagirman/mosnter-rolodex/index.html",
-    "static/css/main.d70e15d8.chunk.css.map": "/alikemalagirman/mosnter-rolodex/static/css/main.d70e15d8.chunk.css.map",
-    "static/js/2.936f36aa.chunk.js.LICENSE.txt": "/alikemalagirman/mosnter-rolodex/static/js/2.936f36aa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/alikemalagirman/mosnter-rolodex/static/media/logo.6ce24c58.svg"
+    "main.css": "/alikemalagirman/monster-rolodex/static/css/main.d70e15d8.chunk.css",
+    "main.js": "/alikemalagirman/monster-rolodex/static/js/main.6d0aafbf.chunk.js",
+    "main.js.map": "/alikemalagirman/monster-rolodex/static/js/main.6d0aafbf.chunk.js.map",
+    "runtime-main.js": "/alikemalagirman/monster-rolodex/static/js/runtime-main.0f5dba88.js",
+    "runtime-main.js.map": "/alikemalagirman/monster-rolodex/static/js/runtime-main.0f5dba88.js.map",
+    "static/js/2.936f36aa.chunk.js": "/alikemalagirman/monster-rolodex/static/js/2.936f36aa.chunk.js",
+    "static/js/2.936f36aa.chunk.js.map": "/alikemalagirman/monster-rolodex/static/js/2.936f36aa.chunk.js.map",
+    "index.html": "/alikemalagirman/monster-rolodex/index.html",
+    "static/css/main.d70e15d8.chunk.css.map": "/alikemalagirman/monster-rolodex/static/css/main.d70e15d8.chunk.css.map",
+    "static/js/2.936f36aa.chunk.js.LICENSE.txt": "/alikemalagirman/monster-rolodex/static/js/2.936f36aa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alikemalagirman/monster-rolodex/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b2bc28c.js",
+    "static/js/runtime-main.0f5dba88.js",
     "static/js/2.936f36aa.chunk.js",
     "static/css/main.d70e15d8.chunk.css",
     "static/js/main.6d0aafbf.chunk.js"
